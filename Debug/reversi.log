@@ -1,0 +1,6 @@
+﻿  reversi.cpp
+C:\Users\xiaol\Desktop\reversi\reversi.cpp(116,6): warning C4101: 'a': ローカル変数は 1 度も使われていません。
+C:\Users\xiaol\Desktop\reversi\reversi.cpp(116,8): warning C4101: 'b': ローカル変数は 1 度も使われていません。
+C:\Users\xiaol\Desktop\reversi\reversi.cpp(182,32): warning C4099: 'Player_card': タイプ名は最初 'class' として使われていましたが 'struct' として使われています。
+C:\Users\xiaol\Desktop\reversi\reversi.cpp(19): message : 'Player_card' の宣言を確認してください
+  reversi.vcxproj -> C:\Users\xiaol\Desktop\reversi\Debug\reversi.exe
